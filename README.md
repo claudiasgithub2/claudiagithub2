@@ -4,7 +4,7 @@ Mi repositorio personal
     <img width="200" src="https://avatars.githubusercontent.com/u/138537469?s=400&u=117d98be7c7989df6450117a83f54b4105361ca8&v=4">
 </p>
 
-<h1> Hola compañeros < Desarrolladores/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hola < Desarrolladores/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
