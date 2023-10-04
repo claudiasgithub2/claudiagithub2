@@ -11,7 +11,7 @@ Mi repositorio personal
 
 
 
-<div size='20px'> Soy Claudia, disfruto trabajando en equipos, aportando ideas y apoyando el crecimiento colectivose logran mejores resultados cuando trabajamos juntos hacia un objetivo común.
+<div size='20px'> Soy Claudia, disfruto trabajando en equipos, aportando ideas y apoyando el crecimiento colectivo. Se logran mejores resultados cuando trabajamos juntos hacia un objetivo común.
 
 Creo en la educación continua y estoy comprometida a mantenerme actualizada con las últimas tendencias y avances en tecnología. Busco oportunidades para aprender y mejorar mis habilidades constantemente.
 
