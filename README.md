@@ -28,7 +28,7 @@ Estoy emocionada por seguir aprendiendo y creciendo en el mundo del desarrollo. 
   
 - 👯 Busco colaborar en proyectos
   
-- ⚡ Trabajé más de 34 años en Diseño Gráfico Editorial con buen dominio de Photoshop, InDesign, Illustrator
+- ⚡ Trabajé varios años en Diseño Gráfico Editorial con buen dominio de Photoshop, InDesign, Illustrator
   
 
 <h2> Conectate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
